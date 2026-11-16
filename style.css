@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(149, 173, 189);
+}
+h1 {
+  color: rgb(192, 192, 204);
+}
+p {
+  color: rgb(156, 49, 49);
+}
+h1 {
+  color: rgb(134, 46, 46);
+  
+  color: rgb(214, 15, 15);
+  text-align: center;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: rgb(31, 25, 25);
+  
+  color: rgb(15, 14, 14);
+  text-align: center;
+  font-family: courier;
+  font-size: 160%;
+}
+table, th, td {
+  border: 1px solid;</style>
+  border-radius: 4px;
+  padding: 5px;
+  width: 600px;
+}
+img {
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px;
+  margin-right
+  : auto;
+}
